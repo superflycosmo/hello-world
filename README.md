@@ -6,3 +6,5 @@ Hi My name is RC
 I'm a cloud engineer testing code on GitHub.
 
 I love new technology.
+
+I can't wait for Christmas and NYE.
